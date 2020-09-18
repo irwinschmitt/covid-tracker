@@ -27,7 +27,7 @@ npm run serve
 npm run build
 ```
 
-### Análise estátia
+### Análise estática
 
 ```
 npm run lint
