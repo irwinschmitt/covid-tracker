@@ -4,7 +4,7 @@ Essa ideia é motivada pelo [Desafio](https://gitlab.com/GuiFay/selecao-latitude
 
 ## Proposta
 
-Covid Tracker é uma proposta de site que colete informações diárias sobre a saúde das pessoas com o objetivo de mostrar casos de COVID-19 próximos através de um mapa.
+Covid Tracker é uma proposta de site que colete informações diárias sobre a saúde das pessoas com o objetivo de mostrar, através de um mapa, casos de COVID-19 próximos.
 ### Tecnologia
 
 A aplicação SPA (_Angular pref._) deverá consumir uma API local (_Java Spring pref._) e guardar as infos em um banco de dados (_PostreSQL pref._).
