@@ -15,7 +15,7 @@ Uma aplicação _SPA_ em **Vue.js** que consome uma _API_ em **Node.js** e guard
 npm install
 ```
 
-### Compilação e hot-reload para desenvolvimento
+### Compilação e _hot-reload_ para desenvolvimento
 
 ```
 npm run serve
@@ -35,4 +35,4 @@ npm run lint
 
 ### Outras configurações
 
-[Configurações Vue.js](https://cli.vuejs.org/config/).
+Ver [Configurações Vue.js](https://cli.vuejs.org/config/).
