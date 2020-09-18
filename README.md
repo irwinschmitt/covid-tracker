@@ -7,7 +7,6 @@ Essa ideia é motivada pelo [Desafio](https://gitlab.com/GuiFay/selecao-latitude
 Covid Tracker é uma proposta de site que colete informações diárias sobre a saúde das pessoas com o objetivo de mostrar, através de um mapa, casos de COVID-19 próximos.
 ### Tecnologia
 
-A aplicação SPA (_Angular pref._) deverá consumir uma API local (_Java Spring pref._) e guardar as infos em um banco de dados (_PostreSQL pref._).
 Uma aplicação _SPA_ em **Vue.js** que consome uma _API_ em **Node.js** e guarda as informações em um banco de dados em **PostgreSQL**.
 
 ## Configurações Iniciais
