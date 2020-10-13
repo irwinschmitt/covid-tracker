@@ -12,7 +12,7 @@ Uma aplicação _SPA_ em **Vue.js** que consome uma _API_ em **Node.js** e guard
 ### Estado atual
 
 <p align="center">
-  <img src="covid-tracker.gif">
+  <img src="./src/assets/covid-tracker.gif">
 </p>
 
 
