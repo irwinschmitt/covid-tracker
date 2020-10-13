@@ -65,5 +65,6 @@ export default {
 <style>
 .map {
   height: 93.4vh;
+  z-index: 0;
 }
 </style>
