@@ -9,6 +9,14 @@ Covid Tracker é uma proposta de site que colete informações diárias sobre a 
 
 Uma aplicação _SPA_ em **Vue.js** que consome uma _API_ em **Node.js** e guarda as informações em um banco de dados em **PostgreSQL**.
 
+### Estado atual
+
+<p align="center">
+  <img src="covid-tracker.gif">
+</p>
+
+
+
 ## Configurações Iniciais
 
 ```
